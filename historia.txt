@@ -13,3 +13,10 @@ Master 1
 Master 2
 
 Probando git cherry-pick
+<<<<<<< HEAD
+=======
+
+Probando parte 2
+
+parte 3
+>>>>>>> historia_mejorada
